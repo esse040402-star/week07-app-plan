@@ -50,4 +50,4 @@
   - LAB-AC5 충족 — 이 문서의 검토 방식·판단·실제 검증 상태·다섯 줄 인계. 단 독립 검토가 아니라는 한계를 명시
   - LAB-AC6 충족 — midterm-plan.md, 아래 커밋 링크
 - 본인 개인 저장소 링크: https://github.com/esse040402-star/week07-app-plan
-- 의미 있는 커밋 링크: (커밋 후 기록)
+- 의미 있는 커밋 링크: https://github.com/esse040402-star/week07-app-plan/commit/364390b3aa1017edb9cacd5d01c1d666ce17d27b
